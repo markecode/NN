@@ -1,0 +1,5 @@
+#custom
+*.csv
+*.html
+.spyproject/*
+__pycache__/*
